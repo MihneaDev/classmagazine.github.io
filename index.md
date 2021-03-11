@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Python is awesome!</title>
+ 
     </head>
     <body>
         <h1>Revista Clasei IV B</h1>
